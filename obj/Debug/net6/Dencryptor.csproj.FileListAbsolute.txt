@@ -1,0 +1,5 @@
+D:\ParadimnSharp\obj\Debug\net6\Dencryptor.csproj.AssemblyReference.cache
+D:\ParadimnSharp\obj\Debug\net6\Dencryptor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ParadimnSharp\obj\Debug\net6\Dencryptor.AssemblyInfoInputs.cache
+D:\ParadimnSharp\obj\Debug\net6\Dencryptor.AssemblyInfo.cs
+D:\ParadimnSharp\obj\Debug\net6\Dencryptor.csproj.CoreCompileInputs.cache
